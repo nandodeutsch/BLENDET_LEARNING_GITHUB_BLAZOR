@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Studium\\HF-Prozesstechniker\\Informatik\\TIM\\Git\\GitNando\\BLENDET_LEARNING_GITHUB_BLAZOR\\BLENDET_LEARNING_GITHUB_BLAZOR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92249FAB-47F4-42B4-B1A1-CB0AD8DA9609}|BLENDET_LEARNING_GITHUB_BLAZOR\\BLENDET_LEARNING_GITHUB_BLAZOR.csproj|c:\\users\\studium\\hf-prozesstechniker\\informatik\\tim\\git\\gitnando\\blendet_learning_github_blazor\\blendet_learning_github_blazor\\blendet_learning_github_blazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92249FAB-47F4-42B4-B1A1-CB0AD8DA9609}|BLENDET_LEARNING_GITHUB_BLAZOR\\BLENDET_LEARNING_GITHUB_BLAZOR.csproj|solutionrelative:blendet_learning_github_blazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92249FAB-47F4-42B4-B1A1-CB0AD8DA9609}|BLENDET_LEARNING_GITHUB_BLAZOR\\BLENDET_LEARNING_GITHUB_BLAZOR.csproj|c:\\users\\studium\\hf-prozesstechniker\\informatik\\tim\\git\\gitnando\\blendet_learning_github_blazor\\blendet_learning_github_blazor\\blendet_learning_github_blazor\\components\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92249FAB-47F4-42B4-B1A1-CB0AD8DA9609}|BLENDET_LEARNING_GITHUB_BLAZOR\\BLENDET_LEARNING_GITHUB_BLAZOR.csproj|solutionrelative:blendet_learning_github_blazor\\components\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Studium\\HF-Prozesstechniker\\Informatik\\TIM\\Git\\GitNando\\BLENDET_LEARNING_GITHUB_BLAZOR\\BLENDET_LEARNING_GITHUB_BLAZOR\\BLENDET_LEARNING_GITHUB_BLAZOR\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BLENDET_LEARNING_GITHUB_BLAZOR\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Studium\\HF-Prozesstechniker\\Informatik\\TIM\\Git\\GitNando\\BLENDET_LEARNING_GITHUB_BLAZOR\\BLENDET_LEARNING_GITHUB_BLAZOR\\BLENDET_LEARNING_GITHUB_BLAZOR\\Components\\Layout\\NavMenu.razor*",
+              "RelativeToolTip": "BLENDET_LEARNING_GITHUB_BLAZOR\\Components\\Layout\\NavMenu.razor*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T20:44:22.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Component.razor",
+              "DocumentMoniker": "C:\\Users\\Studium\\HF-Prozesstechniker\\Informatik\\TIM\\Git\\GitNando\\BLENDET_LEARNING_GITHUB_BLAZOR\\BLENDET_LEARNING_GITHUB_BLAZOR\\BLENDET_LEARNING_GITHUB_BLAZOR\\Components\\Pages\\Component.razor",
+              "RelativeDocumentMoniker": "BLENDET_LEARNING_GITHUB_BLAZOR\\Components\\Pages\\Component.razor",
+              "ToolTip": "C:\\Users\\Studium\\HF-Prozesstechniker\\Informatik\\TIM\\Git\\GitNando\\BLENDET_LEARNING_GITHUB_BLAZOR\\BLENDET_LEARNING_GITHUB_BLAZOR\\BLENDET_LEARNING_GITHUB_BLAZOR\\Components\\Pages\\Component.razor*",
+              "RelativeToolTip": "BLENDET_LEARNING_GITHUB_BLAZOR\\Components\\Pages\\Component.razor*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T20:44:09.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
